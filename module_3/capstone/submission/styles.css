@@ -1,0 +1,36 @@
+.color-1,
+.color-2,
+.color-3,
+.color-4 {
+  display: flex;
+  align-items: flex-end;
+}
+
+.color-1 {
+  background-color: red;
+  height: 100px;
+}
+.color-2 {
+  background-color: blue;
+  height: 50px;
+}
+
+.color-3 {
+  background-color: black;
+  height: 50px;
+}
+
+.color-4 {
+  background-color: yellow;
+  height: 50px;
+}
+
+.backg-color {
+  background: white;
+  border-radius: 2px;
+  padding: 1px;
+  opacity: 0;
+}
+.backg-color:hover {
+  opacity: 1;
+}
