@@ -1,5 +1,8 @@
 # vue-capstone-exchange-api
 
+repository where I posted via git https://github.com/nagfx/vue-currency-converter-api
+Deployed from that repository: https://cosmic-zabaione-f1212d.netlify.app/
+
 Used the https://exchangerate.host/ api with AXIOS to build this.
 Delivers exchange rate fast and quick.
 
