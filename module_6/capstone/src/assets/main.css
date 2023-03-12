@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Changa:wght@400;700&display=swap");
+
+body,
+input,
+button {
+  font-family: "Changa" !important ;
+}
+
+body {
+  background: #00b4db; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #0083b0,
+    #00b4db
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #0083b0,
+    #00b4db
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
